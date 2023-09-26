@@ -1,0 +1,21 @@
+# Common files
+.env
+
+# .NET Core
+omnisharp.json
+project.lock.json
+project.fragment.lock.json
+**/Properties/launchSettings.json
+[Bb]in/
+[Dd]ebug/
+[Ll]og/
+
+# Files built by visual studio
+*.obj
+obj
+
+# User specific files
+sln.docstates
+
+# vscode options directory
+.vscode/
